@@ -1,3 +1,4 @@
-#chratourer : Action de chraire en tournant. ex : Chraire un flouff.
+#chratourer
 
-2 : verbre. détourer un chat. " Moi mon passe temps c'est de chratourer sur mon ordinateur."
+1. Action de chraire en tournant. ex : Chraire un flouff.
+2. verbre. détourer un chat. " Moi mon passe temps c'est de chratourer sur mon ordinateur."

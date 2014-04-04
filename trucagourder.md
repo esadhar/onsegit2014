@@ -1,1 +1,3 @@
-trucagourder : verbe à l'infinitif, action de truquer une gourde.
+#trucagourder
+
+verbe à l'infinitif, action de truquer une gourde.
