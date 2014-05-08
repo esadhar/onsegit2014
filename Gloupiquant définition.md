@@ -1,1 +1,0 @@
-Gloupiquant = se dit d'une personne collante 

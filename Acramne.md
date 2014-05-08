@@ -1,3 +1,5 @@
+#Acramne
+
 (n.m)excroissance de couleur verdâtre plus ou moins mouvante dut à une surconsomation de papier bulle ou de hamster.
 
 ex: quel acramne chatoyant. 
