@@ -8,6 +8,6 @@ Ex: "ma chérie, une vraie macadondra portent des cuissardes
 
 
 2. Nom d'une danse typique. La macadondra se danse certains
- soirs de Mai, vÃªtu d'un drap Ã  petits pois au son d'un 
+ soirs de mai, habillé d'un drap à petits pois au son d'un 
 dindon glougloutant.
 
